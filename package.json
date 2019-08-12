@@ -18,5 +18,11 @@
   },
   "engines": {
     "node": "10"
+  },
+  "sgc": {
+    "body": false,
+    "scope": true,
+    "delimiter": ":",
+    "lowercaseTypes": true
   }
 }

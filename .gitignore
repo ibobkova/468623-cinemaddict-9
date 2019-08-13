@@ -17,3 +17,4 @@ build/
 # Генерируемый JS-bundle
 bundle.js*
 
+changelog.config.js

@@ -11,7 +11,7 @@ const createCard = (movie) => {
         <span class="film-card__duration">${movie.duration}</span>
         <span class="film-card__genre">${movie.genre}</span>
       </p>
-      <img src="./images/posters/the-man-with-the-golden-arm.jpg" alt="" class="film-card__poster">
+      <img src="${movie.poster}" alt="" class="film-card__poster">
       <p class="film-card__description">${movie.desc}</p>
       <a class="film-card__comments">${movie.comments.length} comments</a>
       <form class="film-card__controls">

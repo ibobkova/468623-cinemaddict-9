@@ -11,8 +11,6 @@ const markup = `
   </form>
 `;
 
-const createSearch = () => {
-  return createElement(markup);
-};
+const createSearch = () => createElement(markup);
 
 export default createSearch;

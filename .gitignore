@@ -13,3 +13,8 @@ node_modules/
 
 # Папка с собранными файлами проекта
 build/
+
+# Генерируемый JS-bundle
+bundle.js*
+
+changelog.config.js

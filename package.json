@@ -14,7 +14,9 @@
     "eslint-config-htmlacademy": "0.5.2",
     "webpack": "4.29.6",
     "webpack-cli": "3.2.3",
-    "webpack-dev-server": "3.2.1"
+    "webpack-dev-server": "3.2.1",
+    "moment": "2.24.0",
+    "moment-locales-webpack-plugin": "1.1.0"
   },
   "engines": {
     "node": "10"

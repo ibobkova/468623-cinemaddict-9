@@ -16,7 +16,10 @@
     "webpack-cli": "3.2.3",
     "webpack-dev-server": "3.2.1",
     "moment": "2.24.0",
-    "moment-locales-webpack-plugin": "1.1.0"
+    "moment-locales-webpack-plugin": "1.1.0",
+    "chart.js": "2.8.0",
+    "chartjs-plugin-datalabels": "0.7.0",
+    "import": "0.0.6"
   },
   "engines": {
     "node": "10"
